@@ -1,6 +1,4 @@
-# go_router_tutorial
-
-GoRouter - Smooth and convenient url-based API Navigation.
+# GoRouter - Smooth and convenient url-based API Navigation.
 
 ## Getting Started
 
