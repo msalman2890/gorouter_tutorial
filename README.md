@@ -5,4 +5,4 @@ Smooth and convenient url-based API Navigation.
 
 Complete guide on gorouter implementation in Flutter apps. Source code from the reference of youtube tutorial.
 
-- [Complete Tutorial](https://youtu.be/ebn86HqaKZc
+- [Complete Tutorial](https://youtu.be/ebn86HqaKZc)
