@@ -1,6 +1,7 @@
-# GoRouter - Smooth and convenient url-based API Navigation.
+# GoRouter
+Smooth and convenient url-based API Navigation.
 
-## Getting Started
+## Description
 
 Complete guide on gorouter implementation in Flutter apps. Source code from the reference of youtube tutorial.
 
